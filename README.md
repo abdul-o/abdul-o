@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Nice to meet you
+
+I’m currently learning Frontend and Backend at Zuri.
+
+I’m looking to collaborate on any project that will had value to me
+
+You can reach me on LinkedIn @abdullateef-dauda
+
+
+
 <!--
 **abdul-o/abdul-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
