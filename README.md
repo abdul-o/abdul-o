@@ -2,9 +2,9 @@
 
 Nice to meet you
 
-I’m currently learning Frontend and Backend at Zuri.
+I’m a Full stack Developer.
 
-I’m looking to collaborate on any project that will had value to me
+I’m looking to collaborate on any project that will add value to me
 
 You can reach me on LinkedIn @abdullateef-dauda
 
