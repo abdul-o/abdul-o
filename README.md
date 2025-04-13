@@ -6,7 +6,7 @@ I’m a Full stack Developer.
 
 I’m looking to collaborate on any project that will add value to me
 
-You can reach me on LinkedIn @abdullateef-dauda
+
 
 
 
